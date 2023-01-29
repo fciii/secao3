@@ -4,3 +4,4 @@ show
 noite noite dia
 teste de alteração apartir do clone
 deu certo!
+testes de merge
